@@ -8,6 +8,9 @@ The main aim of this project is to detect the quality of river water and quantit
 👨🏿‍🤝‍👨🏻 TEAM MEMBERS
 
 Sivabalan - Team Leader
+
 Kavimani - Member 1
+
 Santhosekumar - Member 2
+
 Sentamilselvi - Member 3
